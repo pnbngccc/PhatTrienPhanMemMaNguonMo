@@ -13,8 +13,8 @@ function giai_phuong_trinh_bac_1($a, $b) {
 }
 
 // Nhập hệ số a và b từ người dùng
-$a = readline("Nhập hệ số a: ");
-$b = readline("Nhập hệ số b: ");
+$a = 5;
+$b = 9;
 
 // Gọi hàm giải phương trình
 giai_phuong_trinh_bac_1($a, $b);
